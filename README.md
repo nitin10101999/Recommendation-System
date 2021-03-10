@@ -21,5 +21,5 @@
 I am providing above process to execute our code faster after running one time. Actually what am I doing is that I am storing the userId and hotelId features embedded vector to a dictionary and storing it to a file. For the first time in creating the dictionary it takes some time. then After other we just have to load the already created dictionary file and this would result in increase in run time.
 
 
-#Info:
+# Info:
 >fetchData.py => to fetch data from the txt file for the tripAdvisor dataset
